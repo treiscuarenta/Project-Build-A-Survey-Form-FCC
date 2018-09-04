@@ -1,0 +1,27 @@
+#title {
+  
+}
+#description {
+  
+}
+#survey-form {
+  
+}
+#email:valid {
+  border-color: black;
+  
+}
+
+#email:invalid {
+  border-color: red;
+}
+
+#number:invalid {
+  border-color: red;
+}
+
+#number:valid {
+  border-color: black;
+}
+
+
